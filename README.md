@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Tarun Barkoti
 
-I'm a data engineer and full-stack developer and I build production-ready dashboards, automate workflows, and manage large-scale data systems. With a background in **Python, R, SQL, and web technologies**, I love solving real-world data problems by bridging backend logic with clean, usable interfaces.
-
+I’m a data engineer and full-stack developer who builds production-grade dashboards, automates complex workflows, and engineers scalable data systems. With a solid foundation in Python, R, SQL, and modern web technologies, I focus on solving real-world data challenges by combining backend precision with clean, user-centric interfaces.
 I’m also an active contributor to **DevArc**, a growing developer community focused on peer-driven upskilling, AI experimentation, and open collaboration.
 
 ---
