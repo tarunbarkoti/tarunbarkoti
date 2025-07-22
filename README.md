@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Tarun Barkoti
 
-I’m a data engineer and full-stack developer who builds production-grade dashboards, automates complex workflows, and engineers scalable data systems. With a solid foundation in Python, R, SQL, and modern web technologies, I focus on solving real-world data challenges by combining backend precision with clean, user-centric interfaces.
-I’m also an active contributor to **DevArc**, a growing developer community focused on peer-driven upskilling, AI experimentation, and open collaboration.
+I’m a data engineer, software developer and AI/ML innovator who builds things that make a difference — From scalable data pipelines to full-stack web apps, I work at the intersection of data and development, turning complex ideas into usable, impactful solutions. I have expertise in developing production-grade dashboards, automating complex workflows, and engineering scalable data systems. With a solid foundation in Python, R, Javascript, php and modern web technologies, I focus on solving real-world challenges by combining backend precision with clean, user-centric interfaces.
+
+I'm also the creator and co-founder of **DevArc** — a growing commumity which provides various platforms empowering developers to share, collaborate, and level up through real-world projects and technical storytelling.
 
 ---
 
